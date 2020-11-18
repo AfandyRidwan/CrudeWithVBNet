@@ -1,0 +1,11 @@
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.FrmAbout.resources
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.FrmItem.resources
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.FrmMainMenu.resources
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.Resources.resources
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.vbproj.GenerateResource.Cache
+E:\Semester3\SEP\Crude\Crude\bin\Debug\Crude.exe
+E:\Semester3\SEP\Crude\Crude\bin\Debug\Crude.pdb
+E:\Semester3\SEP\Crude\Crude\bin\Debug\Crude.xml
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.exe
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.xml
+E:\Semester3\SEP\Crude\Crude\obj\x86\Debug\Crude.pdb
